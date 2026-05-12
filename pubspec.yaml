@@ -1,0 +1,14 @@
+name: clothing_store
+description: A modular CLI application for clothing store management
+version: 1.0.0
+
+environment:
+  sdk: '>=2.19.0 <3.0.0'
+
+dependencies:
+  sqflite: ^2.2.0
+  path: ^1.8.0
+  uuid: ^3.0.7
+
+dev_dependencies:
+  test: ^1.24.0
